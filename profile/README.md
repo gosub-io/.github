@@ -8,7 +8,7 @@
                      \__, |\___/|___/\__,_|_.__/
                       __/ |  The Gateway to
                      |___/   Optimized Searching and
-                             Unlimited 
+                             Unlimited Browsing
 ```
 
 # 🙋‍♀️ A short introduction
