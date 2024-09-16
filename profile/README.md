@@ -20,6 +20,6 @@ We love contributions from everybody. Please read our [contribtion page](https:/
 | Link | Description |
 | ------- | --------- |
 | https://gosub.io   | Main website |
-| https://wiki.gosub.io     | The main wiki of the project. It needs a lot of TLC    |
+| https://wiki.developer.gosub.io     | The main wiki of the project. It needs a lot of TLC    |
 | https://chat.developer.gosub.io | Zulip developer chat |
 | https://chat.gosub.io | General user chat (discord) |
