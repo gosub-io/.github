@@ -1,32 +1,25 @@
-## Hi there 👋
-```
-                                           _
-                                          | |
-                      __ _  ___  ___ _   _| |__
-                     / _` |/ _ \/ __| | | | '_ \
-                    | (_| | (_) \__ \ |_| | |_) |
-                     \__, |\___/|___/\__,_|_.__/
-                      __/ |  The Gateway to
-                     |___/   Optimized Searching and
-                             Unlimited Browsing
-```
+# Welcome to the Gosub.io organisation.
 
-# 🙋‍♀️ A short introduction
-
-This repository contains all the code concerning the gosub-browser. It's not mature or even remotely capable of displaying html pages for you, but it might be someday. 
+This organisation contains all the repositories concerning the Gosub Browser engine. 
 
 
 ## Current status
 
-Right now, the focus is to get a html5 tokenizer and parser up and running. This would allow us to send the parser an HTML document (or fetch it directly from the internet), which will output a document tree of tokens that make up a given webpage. That's it. It is not much, but it is still a significant part of the system. From that point, we can either do some work on fetching these HTML pages remotely or see if we can convert this document tree to a DOM tree, which would be the input for other systems like the user-agent that can render the tree onto the screen.
+Our main web engine can be found at [https://github.com/gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine). It's not capable of rendering most HTML sites, but it's gradually improving. Note that we are still a long way off from a decent browser so do not expect anything you can use except for testing purposes.
+
+We will update this page later on when we have more documentation and project structure.
 
 
-# 🌈 Contribution guidelines 
-**How can the community get involved?**
+## How to get involved
 
-There will be a contributing guideline soon.
+We love contributions from everybody. Please read our [contribtion page](https://gosub.io/contribute/) to find out more.
 
-# 👩‍💻 Useful resources
-**Where can the community find your docs? Is there anything else the community should know?**
+## Links and such
 
-We don't have a lot of resources. Hopefully, we will have a wiki or something with documentation about the browser.
+
+| Link | Description |
+| ------- | --------- |
+| https://gosub.io   | Main website |
+| https://wiki.gosub.io     | The main wiki of the project. It needs a lot of TLC    |
+| https://chat.developer.gosub.io | Zulip developer chat |
+| https://chat.gosub.io | General user chat (discord) |
